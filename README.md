@@ -7,13 +7,16 @@ https://vitababenko.github.io/JS_Movie_Seat_Booking/
 
 ## Installation
 
-1. Clone the repo
+  1. Clone the repo
+
 git clone https://github.com/VitaBabenko/JS_Movie_Seat_Booking.git
 
-2. Install NPM packages
+  2. Install NPM packages
+     
 npm install
 
-3. Run this command for a dev server
+  3. Run this command for a dev server
+     
 npm run start
 
 ## About project
